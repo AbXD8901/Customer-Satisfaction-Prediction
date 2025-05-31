@@ -1,6 +1,3 @@
-Here's a complete `README.md` for your **Customer Satisfaction Prediction** project, structured for a professional GitHub repository:
-
----
 
 # 🤖 Customer Satisfaction Prediction using Machine Learning
 
